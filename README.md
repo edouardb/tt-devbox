@@ -8,7 +8,7 @@ By following this readme, you will be able to deploy a Koyeb service on an insta
 
 Let's get started by creating the service to Koyeb by clicking the button below:
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=devbox&type=git&repository=edouardb%2Ftt-devbox&branch=main&builder=dockerfile&dockerfile=.%2FDockerfile&privileged=true&service_type=worker&regions=was&instance_type=gpu-tenstorrent-n300s&env%5BVSC_NODE_NAME%5D=gpu-box&env%5BVSCODE_CLI_DISABLE_KEYCHAIN_ENCRYPT%5D=1&env%5BVSCODE_CLI_USE_FILE_KEYRING%5D=1)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=devbox&type=git&repository=edouardb%2Ftt-devbox&branch=main&builder=dockerfile&dockerfile=.%2FDockerfile&privileged=true&service_type=worker&regions=was&instance_type=gpu-tenstorrent-n300s&env%5BVSC_NODE_NAME%5D=tt-box&env%5BVSCODE_CLI_DISABLE_KEYCHAIN_ENCRYPT%5D=1&env%5BVSCODE_CLI_USE_FILE_KEYRING%5D=1)
 
 ### Configuring VSCode for remote development
 
