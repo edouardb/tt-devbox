@@ -1,4 +1,4 @@
-FROM ghcr.io/tenstorrent/tt-metal/tt-metalium/ubuntu-22.04-amd64:dev-llong-diff-aligns
+FROM ghcr.io/tenstorrent/tt-metal/tt-metalium-ubuntu-20.04-amd64-release/wormhole_b0:v0.54.0
 
 ARG DEBIAN_FRONTEND=noninteractive
 
